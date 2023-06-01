@@ -107,3 +107,9 @@ Analysis of answers:
 - understand the physical implication of a VR desktop (necessities, problems, ...)
 - focus group with DN AND DI
 - interview with UI experts
+
+## Feedback
+
+- faire une analyse d'images des bureau, éléments recurrents
+- discussion plujs larges
+- peut être garder la Vr juste ocmme point de reflexion futur, pas forcement cmme point principale. Mieux se concentrer sur la difference d'approach enfre DI et DN, faire des tranches d'ages, de categories plus subtiles.
