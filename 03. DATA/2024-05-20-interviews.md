@@ -22,7 +22,7 @@ WHERE: Vaud/Ticino/Italy
 8.  Do you have a special relationship/story with your actual device? How did you choose/buy it?
 9.  What's for you the problem with your computer? Are you able to troubleshoot?
 10. How do you feel about new technologies?
-11. choix du prochainbe (are there any expectations on the machine?)
+11. Choice of next device (are there any expectations on the machine?)
 
 ## Answers
 
@@ -40,10 +40,10 @@ WHERE: Vaud/Ticino/Italy
 10. technology is replacing the human side, we ask too much from machines, there is no longer a human factor. "Chat I don't know what" that will replace humans as well? it's fine to innovate, research, innovate, progress... but it's going too far and we're losing common sense. things are invented to improve people's lives. it depends on who these technologies are used by, if it's for good, ok, but the world is not so honest. dishonest people use them for their own interests.
     At almost 60 years old, he was born in a time when these things didn't exist and he took what suited him. My daughter was born with technology in her hands.
     "We instead adapted, we took the best of what was there out of necessity, but we had no choice.
-    Facebbook has perhaps done more harm than good, maybe it was better that it wasn't there. Everyone wants to be important. He doesn't agree with social media, he believes it's a tool for general life hypocrisy. "10,000 followers and you're alone drinking at the bar."
-    He doesn't think he can keep up with the new technologies as he gets older. "when you work you need them, in retirement there are more important things in life". he thinks he can still manage social (QR code payments for example), but will probably remain idniemnte for more. Already now with airline bookings he does not feel comfortable, because he has never done he is afraid of making mistakes and of online fraud.
+    Facebook has perhaps done more harm than good, maybe it was better that it wasn't there. Everyone wants to be important. He doesn't agree with social media, he believes it's a tool for general life hypocrisy. "10,000 followers and you're alone drinking at the bar."
+    He doesn't think he can keep up with the new technologies as he gets older. "when you work you need them, in retirement there are more important things in life". he thinks he can still manage social (QR code payments for example), but will probably remain behinf for more. Already now with airline bookings he does not feel comfortable, because he has never done he is afraid of making mistakes and of online fraud.
 11. given the power of laptops, he would take one and attach it to a monitor for the fixed location, so he would still have the flexibility of a laptop. Price.
-    "But we don't know how computers will be developed in the future. if you have to work on the computer OK, but for lighter consumption an ipad is more than enough. Many times you don't even need a real comptuer, most people wouldn't need one."
+    "But we don't know how computers will be developed in the future. if you have to work on the computer OK, but for lighter consumption an ipad is more than enough. Many times you don't even need a real computer, most people wouldn't need one."
     He manages to keep up to date as far as possible on the IT level, but he is still surprised that younger people do not manage to do the same, sometimes finding their level lacking. 25-30 year old colleagues use computers on a superficial level, they do not have the curiosity to look further afield.
     He believes in optimising time and resources. "Jobs are
 
@@ -96,3 +96,10 @@ WHERE: Vaud/Ticino/Italy
 11. I will ask my daughter first, but I Would love to see on a big screen and it should be an apple, because now I'm more confident with them.
 
 ## Analysis
+
+In this two exemples of both DI and DN, we can see that we can still have somebody who have more expertise in technology than the other interviewee in the same category. In all four cases they said they are afraid of be left behid by the advancement of technology. In person 1 and 3
+are resigned to not understanding how certain things work, while others still hope to have the basic knowledge to be able to follow future social digitisation.
+But the DI are resigned also cause of their age, they know that "is normal" not understand how certain things work. In he DN there is, instead, a sort of shame compared to peers who understand more.
+
+A concept that has been mentioned several times is optimisation, how technology has optimised processes but at the expense of the human side.
+An aura of fear towards new technologies was shared by all participants except number 2, who said that caution should be exercised in all things.
